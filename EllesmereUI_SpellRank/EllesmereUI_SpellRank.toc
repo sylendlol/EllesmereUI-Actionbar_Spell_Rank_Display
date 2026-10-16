@@ -1,0 +1,10 @@
+## Interface: 120000, 120001, 120005, 120007, 120100, 16001
+## Title: EllesmereUI |cff0cd29fSpell Rank|r
+## Notes: Spell rank on EllesmereUI action buttons, with a max rank checker. Settings: Action Bars > Bar Display > EXTRAS. /spellrank lists lower ranks.
+## Author: Custom
+## Version: 1.0.0
+## Dependencies: EllesmereUI, EllesmereUIActionBars
+## IconTexture: Interface\AddOns\EllesmereUI\media\eg-logo.tga
+
+SpellRank.lua
+SpellRank_Options.lua
